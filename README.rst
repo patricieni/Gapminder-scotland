@@ -9,8 +9,14 @@ Quick Start:
        
     #. Run ``bokeh serve --show Gapminder_Scotland.py`` from terminal 
     #. Raw file should be in ``data/Deprivation_20180313_raw_data.csv``
- 
-       
+
+****
+Example
+**** 
+Inequality Index as a function of number of emergencies for some zones in Scotland
+
+.. image:: /gif/Inequality.gif       
+
 
 License:
     MIT -- see the file ``LICENSE`` for details.
